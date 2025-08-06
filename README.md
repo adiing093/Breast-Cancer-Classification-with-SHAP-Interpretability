@@ -31,7 +31,7 @@ This repository contains a machine learning pipeline for classifying breast canc
 - Negative SHAP values → model leaning towards predicting **Benign**
 
 ## ✅ Results
-- Accuracy: ~96%
+- Accuracy: ~97%
 - SHAP analysis helped highlight how individual features like `area_worst` strongly influenced malignant predictions.
 - Fully interpretable model pipeline.
 
